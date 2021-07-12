@@ -1,0 +1,25 @@
+:root{
+  --red:#ff1234;
+  --white:#faf0e6;
+  --black:#000000;
+}
+body{
+  background:var(--black);
+}
+h1{
+  color: var(--white);
+text-align:center;
+}
+
+.container{
+  color: var(--white);
+ background: var(--red);
+padding:20px;
+  
+}
+
+button{
+  background:var(--black);
+ color:var(--white);
+ padding:5px;
+}
